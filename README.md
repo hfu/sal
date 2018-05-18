@@ -10,6 +10,8 @@ $ tippecanoe...
 ## config/default.hjson
 ```
 {
-  data: [data/SEN]
+  data: [
+    SEN
+  ]
 }
 ```

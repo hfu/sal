@@ -1,0 +1,24 @@
+{
+  "name": "sal",
+  "version": "1.0.0",
+  "description": "## usage ``` $ vi config/default.hjson $ node sal.js $ tippecanoe... ```",
+  "main": "sal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/sal.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/sal/issues"
+  },
+  "homepage": "https://github.com/hfu/sal#readme",
+  "dependencies": {
+    "config": "^1.30.0",
+    "hjson": "^3.1.1",
+    "shapefile": "^0.6.6"
+  }
+}
