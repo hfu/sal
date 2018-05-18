@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hfu/sal#readme",
   "dependencies": {
+    "@turf/turf": "^5.1.6",
     "config": "^1.30.0",
     "hjson": "^3.1.1",
     "shapefile": "^0.6.6"
